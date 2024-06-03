@@ -1,0 +1,32 @@
+[
+    {
+        "productName": "flower",
+        "productDescription": "",
+        "price": "29.99",
+        "image": "https://www.thespruce.com/thmb/-SEvcDRp722ZhpMzLjxgR0HkxuU=/6016x0/filters:no_upscale():max_bytes(150000):strip_icc()/plants-with-big-flowers-4138211-hero-b10becb169064cc4b3c7967adc1b22e1.jpg"
+    },
+    {
+        "productName": "flower",
+        "productDescription": "",
+        "price": "29.99",
+        "image": "https://en.wikipedia.org/wiki/Pseudanthium#/media/File:Flower_July_2011-2_1_cropped.jpg"
+    },
+    {
+        "productName": "flower",
+        "productDescription": "",
+        "price": "29.99",
+        "image": "https://en.wikipedia.org/wiki/Pseudanthium#/media/File:Bellis_perennis_white_(aka).jpg"
+    },
+    {
+        "productName": "flower",
+        "productDescription": "",
+        "price": "29.99",
+        "image": ""
+    },
+    {
+        "productName": "flower",
+        "productDescription": "",
+        "price": "29.99",
+        "image": ""
+    }
+]
