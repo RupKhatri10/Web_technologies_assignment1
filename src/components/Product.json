@@ -1,32 +1,38 @@
 [
     {
-        "productName": "flower",
-        "productDescription": "",
-        "price": "29.99",
-        "image": "https://www.thespruce.com/thmb/-SEvcDRp722ZhpMzLjxgR0HkxuU=/6016x0/filters:no_upscale():max_bytes(150000):strip_icc()/plants-with-big-flowers-4138211-hero-b10becb169064cc4b3c7967adc1b22e1.jpg"
+        "productName": "Dahlia",
+        "productDescription": "Dahlias are perennial plants with tuberous roots, though they are grown as annuals in some regions with cold winters.",
+        "price": "19.99",
+        "image": "https://images.unsplash.com/photo-1617417715887-d51297ecdbca?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fERhaGxpYXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-        "productName": "flower",
-        "productDescription": "",
-        "price": "29.99",
-        "image": "https://en.wikipedia.org/wiki/Pseudanthium#/media/File:Flower_July_2011-2_1_cropped.jpg"
+        "productName": "Aster",
+        "productDescription": "Asters are daisy-like flowers that bloom in late-summer and early-fall. They come in a wide variety of colors and sizes, are easy to grow and bloom predictably and reliably.",
+        "price": "25.99",
+        "image": "https://images.unsplash.com/photo-1558281033-19cead6981dc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "productName": "flower",
-        "productDescription": "",
-        "price": "29.99",
-        "image": "https://en.wikipedia.org/wiki/Pseudanthium#/media/File:Bellis_perennis_white_(aka).jpg"
+        "productName": "Lotus",
+        "productDescription": "The lotus plant is a perennial, aquatic plant that thrives in nutrient-rich, murky conditions found across South asia, east Africa, southeast Asia, and Australia.",
+        "price": "9.99",
+        "image": "https://images.unsplash.com/photo-1594882471743-2758d2ce5f00?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TG90dXN8ZW58MHx8MHx8fDA%3D"
     },
     {
-        "productName": "flower",
-        "productDescription": "",
-        "price": "29.99",
-        "image": ""
+        "productName": "Daffodil",
+        "productDescription": "Daffodils, also known by their botanical name narcissus, are easy and reliable spring-flowering bulbs. They multiply quickly and return to bloom again each spring, year after year.",
+        "price": "11.99",
+        "image": "https://images.unsplash.com/photo-1523257813706-ff6e594e4880?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fERhZmZvZGlsfGVufDB8fDB8fHww"
     },
     {
-        "productName": "flower",
-        "productDescription": "",
-        "price": "29.99",
-        "image": ""
+        "productName": "Rose",
+        "productDescription": "Roses are erect, climbing, or trailing shrubs, the stems of which are usually copiously armed with prickles of various shapes and sizes, commonly called thorns.",
+        "price": "39.99",
+        "image": "https://images.unsplash.com/photo-1496857239036-1fb137683000?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fGZsb3dlcnxlbnwwfDB8MHx8fDA%3D"
+    },
+    {
+        "productName": "Lily",
+        "productDescription": "Lilies are tall perennials ranging in height from 1 to 6ft. They form naked or tunicless scaly underground bulbs which are their organs of perennation.",
+        "price": "24.99",
+        "image": "https://images.unsplash.com/photo-1567428051128-5f09a0200655?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bGlseXxlbnwwfHwwfHx8MA%3D%3D"
     }
 ]

@@ -1,3 +1,4 @@
+import React, {useState} from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import { NavBar } from "./components/Nav";
@@ -7,6 +8,8 @@ import { Routes, Route, Outlet } from "react-router-dom";
 import { BrowserRouter } from "react-router-dom";
 
 function App() {
+
+
   return (
     <>
       <BrowserRouter>
@@ -14,7 +17,6 @@ function App() {
           <Route path="/" element={<Layout />}>
             <Route index element={<HomePage />} />
             <Route path="account" element={<Account />} />
-
             <Route path="*" element={<HomePage />} />
           </Route>
         </Routes>
