@@ -8,6 +8,7 @@ import {
   Label,
   Input,
   Button,
+  Alert,
 } from "reactstrap";
 
 export const Account = () => {
@@ -17,7 +18,11 @@ export const Account = () => {
   const [address, setAddress] = useState("123 XYZ Street")
   const [city, setCity] = useState("Kitchener");
   const [state, setState] = useState("Ontario");
-  const [zip, setZip] = useState("999888")
+  const [zip, setZip] = useState("N2M 2A6")
+
+  const [visible, setVisible] = useState(false);
+  const onDismiss = () => setVisible(false);
+
   return (
     <>
       <Container>
@@ -105,7 +110,10 @@ export const Account = () => {
               </FormGroup>
             </Col>
           </Row>
-          <Button disabled>Save</Button>
+          <Alert color="info" isOpen={visible} toggle={onDismiss}>
+            Account information updated.
+          </Alert>
+          <Button color="primary" onClick={() => {setVisible(true)} }>Save</Button>
         </Form>
       </Container>
     </>
